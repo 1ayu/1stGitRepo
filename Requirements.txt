@@ -1,0 +1,7 @@
+This is a chat application
+
+Emoji
+Colour
+Typing Option
+Vibration on Text
+Vibration on Call
