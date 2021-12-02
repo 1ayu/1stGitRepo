@@ -5,3 +5,6 @@ Colour
 Typing Option
 Vibration on Text
 Vibration on Call
+
+Dark Mode
+Light Mode
